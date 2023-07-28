@@ -524,8 +524,7 @@ podman run --rm \
 The systemd directive [`OpenFile=`](https://www.freedesktop.org/software/systemd/man/systemd.service.html#OpenFile=) was
 introduced in __systemd 253__ (released February 2023).
 
-See also
-https://github.com/eriksjolund/podman-OpenFile
+See also [Unix Sockets](unix-sockets.md)
 
 ## Valid method combinations
 
