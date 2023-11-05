@@ -1,5 +1,5 @@
 ---
-title: Ngingx
+title: Nginx
 ---
 
 # Podman Nginx Socket Activation
